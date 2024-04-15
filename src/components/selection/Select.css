@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+}
+.form-select {
+    width: 100px;
+}
+.department {
+    padding-top: 5px;
+    margin-top: 10px;
+}
+.list-group {
+    display: flex;
+    width: 200px;
+    height: 100px;
+    padding-top: 100px;
+    padding-left: 10px;
+    margin-right: 100px;
+    list-style: square;
+}
+.list-group-item {
+    width: 200px;
+}
